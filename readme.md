@@ -1,6 +1,6 @@
 # Predicciones en el Mercado Inmobiliario de Dinamarca 🏠
 
-Este proyecto utiliza técnicas de Machine Learning para predecir los precios de las casas en dinamarca durante los próximos años como también las características de las mismas según diferentes regiones.
+Este proyecto utiliza técnicas de Machine Learning para predecir los precios de las casas en dinamarca durante los próximos años como también ventas o las características de las mismas según diferentes regiones.
 
 ## Descripción
 
