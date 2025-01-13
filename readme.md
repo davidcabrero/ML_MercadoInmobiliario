@@ -9,7 +9,8 @@ El objetivo de este proyecto es construir un modelo de Machine Learning que pued
 ## Estructura del Proyecto
 
 - `EDAyPredicciones.ipynb`: Análisis exploratorio de los datos de ventas de casas y características en varios años y predicciones con Machine Learning de años futuros.
-- `RecomendadorCasas.py`: Elige la vivienda ideal para cada usuario con machine learning según sus intereses.
+- `predecirOfertas.py`: Utiliza Machine Learning para predecir qué oferta será buena según características de la casa.
+- `RecomendadorCasas.py`: Elige la vivienda ideal para cada usuario según sus intereses.
 - `app.py`: Aplicación para ver las predicciones de forma visual.
 - `houses.csv`: Dataset con todos los datos de ventas de casas desde 1600 a 2024.
 
