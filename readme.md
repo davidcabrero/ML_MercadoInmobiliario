@@ -35,6 +35,10 @@ El objetivo de este proyecto es construir un modelo de Machine Learning que pued
     ```sh
     streamlit run recomendadorCasas.py
     ```
+3. Ejecuta predecir ofertas:
+    ```sh
+    streamlit run predecirOfertas.py
+    ```    
 
 ## Contacto
 
