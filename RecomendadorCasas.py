@@ -37,7 +37,7 @@ if not filtered_houses.empty:
     knn = NearestNeighbors(n_neighbors=5)
     knn.fit(X)
     
-    # Encontrar las casas más recomendables
+    # Encontrar las casas más recomendables con knn
     user_input = [[precio_max, habitaciones, anio_construccion, metros_cuadrados]]
     distances, indices = knn.kneighbors(user_input)
     
