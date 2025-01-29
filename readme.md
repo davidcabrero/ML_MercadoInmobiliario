@@ -11,8 +11,8 @@ El objetivo de este proyecto es construir un modelo de Machine Learning que pued
 - `EDAyPredicciones.ipynb`: Análisis exploratorio de los datos de ventas de casas y características en varios años y predicciones con Machine Learning de años futuros.
 - `predecirOfertas.py`: Utiliza Machine Learning para predecir qué oferta será buena según características de la casa.
 - `RecomendadorCasas.py`: Elige la vivienda ideal para cada usuario según sus intereses.
-- `app.py`: Aplicación para ver las predicciones de forma visual.
-- `houses.csv`: Dataset con todos los datos de ventas de casas desde 1600 a 2024.
+- `app.py`: Aplicación para ver las predicciones de forma visual de casas específicas.
+- `houses.csv`: Dataset con todos los datos de ventas de casas desde 1800 a 2024.
 
 ## Instalación
 
@@ -20,7 +20,11 @@ El objetivo de este proyecto es construir un modelo de Machine Learning que pued
     ```sh
     git clone https://github.com/davidCabrero/ML_MercadoInmobiliario.git
     ```
-2. Instala los requisitos:
+2. Activa el entorno virtual:
+    ```sh
+    source .venv/bin/activate
+    ```
+3. Instala los requisitos:
     ```sh
     pip install -r requirements.txt
     ```
